@@ -1,0 +1,4 @@
+#OpenAI API Configuration
+#Sat May 10 12:43:39 EEST 2025
+# Copy this file to config.properties and add your actual API key
+# openai.api.key=your-openai-api-key-here
